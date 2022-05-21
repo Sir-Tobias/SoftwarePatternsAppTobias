@@ -10,8 +10,38 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SoftwarePatternsAppTobias">
         <activity
+            android:name=".shopUser"
+            android:exported="true" />
+        <activity
             android:name=".RegisterUser"
             android:exported="true" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="true"/>
+        <activity
+            android:name=".MyOrdersHistory"
+            android:exported="true"/>
+        <activity
+            android:name=".AddProductActivity"
+            android:exported="true"/>
+        <activity
+            android:name=".CustomerDetailsActivity"
+            android:exported="true"/>
+        <activity
+            android:name=".CustomerOrderHistoryActivity"
+            android:exported="true"/>
+        <activity
+            android:name=".ProductDetailsActivity"
+            android:exported="true"/>
+        <activity
+            android:name=".ReviewProductActivity"
+            android:exported="true"/>
+        <activity
+            android:name=".UpdateStockActivity"
+            android:exported="true"/>
+        <activity
+            android:name=".CartActivity"
+            android:exported="true"/>
         <activity
             android:name=".MainActivity"
             android:exported="true">

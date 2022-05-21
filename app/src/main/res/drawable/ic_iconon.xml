@@ -1,0 +1,27 @@
+<vector android:height="24dp" android:viewportHeight="996"
+    android:viewportWidth="996" android:width="24dp"
+    xmlns:aapt="http://schemas.android.com/aapt" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:pathData="M88.739,424.239L421.426,91.552A104.31,104.31 90,0 1,568.943 91.552L901.629,424.239A104.31,104.31 90,0 1,901.629 571.755L568.943,904.442A104.31,104.31 0,0 1,421.426 904.442L88.739,571.755A104.31,104.31 90,0 1,88.739 424.239z">
+        <aapt:attr name="android:fillColor">
+            <gradient android:endX="495.1845" android:endY="60.99827"
+                android:startX="495.1845" android:startY="934.9983" android:type="linear">
+                <item android:color="#FF8DFFE1" android:offset="0"/>
+                <item android:color="#FF8AFDE1" android:offset="0.18"/>
+                <item android:color="#FF82F6E1" android:offset="0.29"/>
+                <item android:color="#FF7AF0E1" android:offset="0.35"/>
+                <item android:color="#FF61DBE0" android:offset="0.44"/>
+                <item android:color="#FF46C5E0" android:offset="0.58"/>
+                <item android:color="#FF32B5E0" android:offset="0.72"/>
+                <item android:color="#FF26ACE0" android:offset="0.86"/>
+                <item android:color="#FF23A9E0" android:offset="1"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+    <path android:fillColor="#FF000000" android:pathData="M269.73,498l228.268,-228.268l228.268,228.268l-228.268,228.268z"/>
+    <path android:fillAlpha="0.53" android:fillColor="#fff"
+        android:pathData="M269.73,498l228.27,-228.27l228.27,228.27l-0.08,0.08l-456.38,0l-0.08,-0.08z" android:strokeAlpha="0.53"/>
+    <path android:fillColor="#262424" android:pathData="M269.73,498l228.27,-228.27l0.08,0.08l0,228.27l-228.27,0l-0.08,-0.08z"/>
+    <path android:fillColor="#00000000"
+        android:pathData="M571.758,91.546L904.445,424.233A104.31,104.31 0,0 1,904.445 571.75L571.758,904.436A104.31,104.31 0,0 1,424.242 904.436L91.555,571.75A104.31,104.31 0,0 1,91.555 424.233L424.242,91.546A104.31,104.31 0,0 1,571.758 91.546z"
+        android:strokeColor="#000" android:strokeLineCap="round" android:strokeWidth="122"/>
+</vector>

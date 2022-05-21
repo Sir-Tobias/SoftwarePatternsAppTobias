@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/white"
+    android:background="#D1D1D1"
     tools:context=".RegisterUser">
 
     <TextView
@@ -121,6 +121,18 @@
             android:inputType="textPassword"
             android:maxLength="10"/>
     </com.google.android.material.textfield.TextInputLayout>
+
+    <RadioButton
+        android:id="@+id/studentRadioButton"
+        android:layout_width="119dp"
+        android:layout_height="35dp"
+        android:layout_marginTop="450dp"
+        android:text="Student"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/registerUser"

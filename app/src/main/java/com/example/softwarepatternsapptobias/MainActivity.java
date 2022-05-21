@@ -88,7 +88,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             public void onComplete(@NonNull Task<AuthResult> task) {
                 if (task.isSuccessful()) {
                     //Redirect to profile
-                    startActivity(new Intent(MainActivity.this, teditsUser.class));
+                    startActivity(new Intent(MainActivity.this, MainActivity2.class));
                     //Toast.makeText(MainActivity.this,"This user was succesfully logged in " +task.getException().getMessage(), Toast.LENGTH_LONG).show();
 
                 } else {
