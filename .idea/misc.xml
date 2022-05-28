@@ -12,7 +12,7 @@
         <entry key="..\:/Users/customer/AndroidStudioProjects/SoftwarePatternsAppTobias/app/src/main/res/layout/activity_customer_order_history.xml" value="0.33125" />
         <entry key="..\:/Users/customer/AndroidStudioProjects/SoftwarePatternsAppTobias/app/src/main/res/layout/activity_edit_product.xml" value="0.33125" />
         <entry key="..\:/Users/customer/AndroidStudioProjects/SoftwarePatternsAppTobias/app/src/main/res/layout/activity_main.xml" value="0.37771739130434784" />
-        <entry key="..\:/Users/customer/AndroidStudioProjects/SoftwarePatternsAppTobias/app/src/main/res/layout/activity_main2.xml" value="0.33125" />
+        <entry key="..\:/Users/customer/AndroidStudioProjects/SoftwarePatternsAppTobias/app/src/main/res/layout/activity_main2.xml" value="0.33" />
         <entry key="..\:/Users/customer/AndroidStudioProjects/SoftwarePatternsAppTobias/app/src/main/res/layout/activity_my_orders_history.xml" value="0.33125" />
         <entry key="..\:/Users/customer/AndroidStudioProjects/SoftwarePatternsAppTobias/app/src/main/res/layout/activity_product_content.xml" value="0.27943840579710144" />
         <entry key="..\:/Users/customer/AndroidStudioProjects/SoftwarePatternsAppTobias/app/src/main/res/layout/activity_product_details.xml" value="0.22" />
@@ -26,7 +26,8 @@
         <entry key="..\:/Users/customer/AndroidStudioProjects/SoftwarePatternsAppTobias/app/src/main/res/layout/navheader2.xml" value="0.33125" />
         <entry key="..\:/Users/customer/AndroidStudioProjects/SoftwarePatternsAppTobias/app/src/main/res/layout/product_row.xml" value="0.33125" />
         <entry key="..\:/Users/customer/AndroidStudioProjects/SoftwarePatternsAppTobias/app/src/main/res/layout/single_view2.xml" value="0.389945652173913" />
-        <entry key="..\:/Users/customer/AndroidStudioProjects/SoftwarePatternsAppTobias/app/src/main/res/menu/navmenu.xml" value="0.1377049180327869" />
+        <entry key="..\:/Users/customer/AndroidStudioProjects/SoftwarePatternsAppTobias/app/src/main/res/menu/navmenu.xml" value="0.33" />
+        <entry key="..\:/Users/customer/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_spinner_dropdown_item.xml" value="0.2758152173913043" />
       </map>
     </option>
   </component>

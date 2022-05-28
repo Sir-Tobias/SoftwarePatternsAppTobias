@@ -43,6 +43,9 @@
             android:name=".CartActivity"
             android:exported="true"/>
         <activity
+            android:name=".EditProductActivity"
+            android:exported="true"/>
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

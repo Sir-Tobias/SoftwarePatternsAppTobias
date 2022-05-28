@@ -14,18 +14,20 @@ public class User implements Serializable, Strategy {
         private ArrayList<Product> cart;
         private boolean student;
 
-        public User(String fullname, String phoneNo, String email, String userType) {
-        }
+    public User() {
+    }
+    public User(String fullname, String phoneNo, String email, String userType) {
+    }
 
-        public User(String fullname, String phoneNo, String email, String userType, boolean student) {
-            this.fullname = fullname;
-            this.phoneNo = phoneNo;
-            this.email = email;
-            this.userType = userType;
-            this.student = student;
-            this.cart = new ArrayList<>();
+    public User(String fullname, String phoneNo, String email, String userType, boolean student) {
+        this.fullname = fullname;
+        this.phoneNo = phoneNo;
+        this.email = email;
+        this.userType = userType;
+        this.student = student;
+        this.cart = new ArrayList<>();
 
-        }
+    }
 
     public String getUid() {
         return uid;

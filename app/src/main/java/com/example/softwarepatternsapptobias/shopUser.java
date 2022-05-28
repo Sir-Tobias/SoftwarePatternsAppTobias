@@ -252,7 +252,7 @@ public class shopUser extends AppCompatActivity {
                     System.out.println("Updating the menu works");
 
                     cImage.setVisibility(View.VISIBLE);
-
+                    mName.setText(post);
                     //SETTING THE DESCRIPTION TO DESIGNER
                     mDescription.setText(uType);
 
@@ -267,14 +267,8 @@ public class shopUser extends AppCompatActivity {
 
                 } else if(uType.equalsIgnoreCase("Admin")) {
 
-//                    //SETTING ICON AS ADMIN IF USER TYPE IS ADMIN
-//                    mImage.setVisibility(View.GONE);
-//                    cImage.setVisibility(View.GONE);
-//                    aImage.setVisibility(View.VISIBLE);
-//                    nav.getMenu().getItem(4).setVisible(false);
-//                    nav.getMenu().getItem(5).setVisible(false);
-//                    nav.getMenu().getItem(7).setVisible(false);
 
+                    mName.setText(post);
                     //SETTING THE DESCRIPTION TO ADMIN
                     aDescription.setText(uType);
 
