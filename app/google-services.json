@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681998265057",
+    "project_id": "softwarepatternsapptobias",
+    "storage_bucket": "softwarepatternsapptobias.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681998265057:android:97fd2156ee6d7fa61b25a0",
+        "android_client_info": {
+          "package_name": "com.example.softwarepatternsapptobias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681998265057-isfqc4n44bnjkeo2hca15ta6j7dipdn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjyokfft2lc4TxKgtj8NELsVjVwEDgVE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681998265057-isfqc4n44bnjkeo2hca15ta6j7dipdn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
